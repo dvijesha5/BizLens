@@ -1,0 +1,71 @@
+Date,Category,Description,Amount
+05-01-2025,Marketing,Google Ads Campaign,45000
+10-01-2025,Salaries,Employee Payroll Jan,220000
+15-01-2025,Rent,Office Rent Jan,50000
+20-01-2025,Operations,Electricity & Internet,18000
+25-01-2025,Inventory,Component Raw Stock,120000
+05-02-2025,Marketing,Facebook & Instagram Ads,48000
+10-02-2025,Salaries,Employee Payroll Feb,220000
+15-02-2025,Rent,Office Rent Feb,50000
+20-02-2025,Operations,Utilities & Maintenance,16000
+25-02-2025,Inventory,Peripheral Stock Purchase,110000
+05-03-2025,Marketing,SEO & Content Marketing,52000
+10-03-2025,Salaries,Employee Payroll Mar,230000
+15-03-2025,Rent,Office Rent Mar,50000
+20-03-2025,Operations,Software Licenses & SaaS,22000
+25-03-2025,Inventory,Laptop Inventory Batch,180000
+05-04-2025,Marketing,Local Event Sponsorship,40000
+10-04-2025,Salaries,Employee Payroll Apr,230000
+15-04-2025,Rent,Office Rent Apr,50000
+20-04-2025,Operations,Office Supplies & Logistics,15000
+25-04-2025,Inventory,Monitor Stock Supply,90000
+05-05-2025,Marketing,Digital Ad Campaigns,60000
+10-05-2025,Salaries,Employee Payroll May,240000
+15-05-2025,Rent,Office Rent May,50000
+20-05-2025,Operations,Cloud Hosting & Telecom,25000
+25-05-2025,Inventory,Electronics Replenishment,140000
+05-06-2025,Marketing,Influencer Partnerships,42000
+10-06-2025,Salaries,Employee Payroll Jun,240000
+15-06-2025,Rent,Office Rent Jun,50000
+20-06-2025,Operations,Equipment Repair,12000
+25-06-2025,Inventory,Keyboard & Mouse Bulk Batch,80000
+05-07-2025,Marketing,Mid-Year Sales Promo,65000
+10-07-2025,Salaries,Employee Payroll Jul,250000
+15-07-2025,Rent,Office Rent Jul,50000
+20-07-2025,Operations,Courier & Logistics,28000
+25-07-2025,Inventory,Laptop & Display Stock,160000
+05-08-2025,Marketing,August Ad Spend,50000
+10-08-2025,Salaries,Employee Payroll Aug,250000
+15-08-2025,Rent,Office Rent Aug,50000
+20-08-2025,Operations,Utilities & Office Repairs,20000
+25-08-2025,Inventory,Component Parts,95000
+05-09-2025,Marketing,Festival Lead Generation,55000
+10-09-2025,Salaries,Employee Payroll Sep,250000
+15-09-2025,Rent,Office Rent Sep,50000
+20-09-2025,Operations,SaaS Tools & Security,24000
+25-09-2025,Inventory,Accessories Batch,105000
+05-10-2025,Marketing,Diwali Campaign Ads,75000
+10-10-2025,Salaries,Employee Payroll Oct,260000
+15-10-2025,Rent,Office Rent Oct,50000
+20-10-2025,Operations,Shipping & Handling,30000
+25-10-2025,Inventory,Festival Stock Bulk Purchase,175000
+05-11-2025,Marketing,Post-Festival Clearance Ads,48000
+10-11-2025,Salaries,Employee Payroll Nov,260000
+15-11-2025,Rent,Office Rent Nov,50000
+20-11-2025,Operations,Office Utilities,19000
+25-11-2025,Inventory,Peripheral Replenishment,115000
+05-12-2025,Marketing,Year-End Promotion,80000
+10-12-2025,Salaries,Employee Payroll Dec + Bonus,310000
+15-12-2025,Rent,Office Rent Dec,50000
+20-12-2025,Operations,Annual Maintenance Contracts,35000
+25-12-2025,Inventory,Year End Main Stock,210000
+05-01-2026,Marketing,New Year Brand Awareness,58000
+10-01-2026,Salaries,Employee Payroll Jan,270000
+15-01-2026,Rent,Office Rent Jan,55000
+20-01-2026,Operations,Cloud & Server Infrastructure,26000
+25-01-2026,Inventory,Hardware Stock Order,150000
+05-02-2026,Marketing,Q1 Lead Ads,52000
+10-02-2026,Salaries,Employee Payroll Feb,270000
+15-02-2026,Rent,Office Rent Feb,55000
+20-02-2026,Operations,General Maintenance,21000
+25-02-2026,Inventory,Stock Batch Feb,135000
